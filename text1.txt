@@ -1,2 +1,2 @@
 just some text
-2nd line
+2nd linenew line
