@@ -5,3 +5,4 @@ just some text
 2nd commit
 3rd commit
 4th commit
+commit via Gerrit
