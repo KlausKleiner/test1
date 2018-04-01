@@ -6,3 +6,4 @@ just some text
 3rd commit
 4th commit
 commit via Gerrit
+2nd via Gerrit
